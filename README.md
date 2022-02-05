@@ -12,6 +12,3 @@ Dieses Repositoriy enthält die Hausaufgaben für den Kurs SWA.
 |**Block 4**<br>16.03.2022<br>KW11|[**Fragen zu Covid Cert Apps** beantworten](CovidCert.md)||[**Architektur-Präsentation**](/Gruppenarbeit.md)||
 |**Block 5**<br>23.03.2022<br>KW12|[**Fragen zu Minecraft** beantworten](Minecraft.md)|||[**Architektur-Präsentation**](/Gruppenarbeit.md)|
 |**Block 6**<br>30.03.2022<br>KW13|
-
-
-Test_1_2_3
